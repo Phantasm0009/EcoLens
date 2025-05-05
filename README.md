@@ -28,7 +28,7 @@ To get started with EcoLens, clone the repository and install the necessary depe
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecolens.git
+git clone https://github.com/Phantasm0009/ecolens.git
 
 # Navigate to the client directory
 cd ecolens/client
@@ -60,7 +60,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-
-Special thanks to the contributors and the open-source community for their support and resources that made this project possible.
